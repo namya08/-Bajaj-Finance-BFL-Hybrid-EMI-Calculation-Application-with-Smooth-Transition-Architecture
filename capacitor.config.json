@@ -1,0 +1,8 @@
+
+  {
+  "appId": "com.bajaj.ecommerce",
+  "appName": "BajajEcommerce",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
+
